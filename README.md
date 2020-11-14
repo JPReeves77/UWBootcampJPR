@@ -1,6 +1,6 @@
 # Jim Reeves
 
-![Me in a B-17] https://github.com/JPReeves77/UWBootcampJPR/blob/main/P1000586.JPG
+![Me in a B-17][P1000586.jpg]
 
 ## Flying as a passenger in a B-17
 
