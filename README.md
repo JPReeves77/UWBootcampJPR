@@ -1,6 +1,6 @@
 # Jim Reeves
 
-![Me in a B-17][P1000586.jpg]
+![Me in a B-17][./P1000586.jpg]
 
 ## Flying as a passenger in a B-17
 
